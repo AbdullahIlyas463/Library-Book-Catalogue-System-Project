@@ -49,17 +49,33 @@ _**Code Architecture**_
 When you run the program, you can interact with the system using the following options:
 
 LIBRARY BOOK CATALOG
+
 1: Add a Book
+
 2: Remove Book
+
 3: Search Book
+
 4: Display inorder
+
 5: Display preorder
+
 6: Display postorder
+
 7: Catalog Depth
+
 8: Total Books
+
 9: Find Highest/Lowest Id Book
+
 10: Balance Check
+
 11: Count Leaf Nodes
+
 12: Copy Catalog
+
 13: Clear Catalog
+
 0: Exit
+
+
