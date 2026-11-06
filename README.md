@@ -37,8 +37,11 @@ Interactive Console Menu: An intuitive user interface to test and interact with 
 _**Code Architecture**_
 
 └── Main Application Loop (Interactive CLI Menu)
+
       └── BST<Book> Catalog
+      
            ├── Node Structure (Data + Left/Right Pointers)
+           
            └── Book Object (ID, Title, Copies)
 
 **_Interactive Menu Options_**
